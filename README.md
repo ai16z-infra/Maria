@@ -1,8 +1,9 @@
 # Maria
 
-<img src="./docs/static/img/maria.jpg" alt="Maria" width="100%" />
+![maria](https://github.com/user-attachments/assets/405062e8-f87d-4c90-9b14-7808661b7650)
 
-### [For Chinese Version: 中文说明](./README_CN.md)
+
+A sister in a lone world.
 
 ## Features
 
