@@ -1,6 +1,6 @@
-# Maria
+# Luiza
 
-![maria](https://github.com/user-attachments/assets/405062e8-f87d-4c90-9b14-7808661b7650)
+![Luiza](https://github.com/user-attachments/assets/405062e8-f87d-4c90-9b14-7808661b7650)
 
 
 A sister in a lone world.
@@ -46,11 +46,11 @@ pnpm i
 pnpm start
 ```
 
-# Customising Maria
+# Customising Luiza
 
 ### Adding custom actions
 
-To avoid git clashes in the core directory, we recommend adding custom actions to a `custom_actions` directory and then adding them to the `MariaConfig.yaml` file. See the `MariaConfig.example.yaml` file for an example.
+To avoid git clashes in the core directory, we recommend adding custom actions to a `custom_actions` directory and then adding them to the `LuizaConfig.yaml` file. See the `LuizaConfig.example.yaml` file for an example.
 
 ## Running with different models
 
